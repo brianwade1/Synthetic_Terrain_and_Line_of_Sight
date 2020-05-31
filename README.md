@@ -22,6 +22,13 @@ Beyond the single terrain set that is generated for the image as explained above
 
 ![Terrain_Generation_Settings](/Images/Terrain_Generation_Settings.PNG)
 
+## Credits
+
+This simulation was built with the help of the following people:
+
+* Jim Jablonski
+* John Grant
+
 ## Python Libraries
 
 This simulation was built using the following python libraries and versions:
